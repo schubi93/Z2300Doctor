@@ -26,6 +26,10 @@ In further designs, I may include a MCU for additional functions, such as Blueto
 
 If you feel like going forward to it, feel free to fork!
 
+## Overview
+
+* [PCB](pcb/): Contains the [KiCad](https://www.kicad.org/) project as well as Gerber Data and the BOM
+
 ## License
 
 This project is licensed under the `MIT` License.
