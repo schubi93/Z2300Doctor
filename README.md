@@ -30,7 +30,8 @@ If you feel like going forward to it, feel free to fork!
 
 ## Overview
 
-* [pcb](pcb/): Contains the [KiCad](https://www.kicad.org/) project as well as Gerber Data and the BOM
+* [control_pcb](control_pcb/): Contains the [KiCad](https://www.kicad.org/) project as well as Gerber Data and the BOM
+* [power_amplifier](power_amplifier/Readme.md): Write-Up of reworking the amplifier - stay tuned for updates!
 * [misc](misc/Readme.md): Logo, unrelated stuff...
 
 ## License
