@@ -2,14 +2,16 @@
 
 ## Saving my Logitech Z-2300 stereo
 
-> Right to Repair!
+> Because the climate and the biosphere don’t care about our politics and our empty words for a single second. They only care about what we actually do.
+> 
+> -- <cite>Greta Thunberg, 2020</cite>
 
 I bought a stereo, specifically the [Logitech Z2300](https://productz.com/de/logitech-z-2300/p/nxxLn) a few years ago and loved it.
 Unfortunately, the volume knob is making use of an analog potentiometer.
 And as you may have guessed - it failed!
 
-But I don't want to scrap it, as I like its look and the sound.
-Hence, this project was born
+But I don't want to scrap it, as I affirm the [Right to Repair](https://repair.eu/) and want to save some money as well as ressources.
+Hence, this project was born...
 
 ## Situation
 
@@ -22,8 +24,8 @@ The stereo consists of ~~three~~ four main components:
 As part of this project, I need a new control satellite.
 As the current tendency is to clean up your desk, I don't want any additional hardware sitting on my desk.
 Hence, controlling the volume is done from my pc, resulting in a less complex PCB and also overcoming conflicts with the original design.
-In further designs, I may include a MCU for additional functions, such as Bluetooth or ADC for light control of e.g. LED strips, dependent on the volume.
 
+In further designs, I may include a MCU for additional functions, such as Bluetooth or ADC for light control of e.g. LED strips, dependent on the volume.
 If you feel like going forward to it, feel free to fork!
 
 ## Overview
