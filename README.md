@@ -1,10 +1,10 @@
-<img align="right" width="150" alt="Z2300 Doctor" src="misc/logo_z2300doctor/logo.png"/>
+<img align="right" width="180" alt="Z2300 Doctor" src="misc/logo_z2300doctor/logo.png"/>
 
 ## Saving my Logitech Z-2300 stereo
 
 > Right to Repair!
 
-I bought a stereo, specifically the [Logitech Z2300]() a fews years ago and loved it.
+I bought a stereo, specifically the [Logitech Z2300](https://productz.com/de/logitech-z-2300/p/nxxLn) a few years ago and loved it.
 Unfortunately, the volume knob is making use of an analog potentiometer.
 And as you may have guessed - it failed!
 
