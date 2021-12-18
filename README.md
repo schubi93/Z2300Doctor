@@ -1,4 +1,4 @@
-<img align="right" width="180" alt="Z2300 Doctor" src="misc/logo_z2300doctor/logo.png"/>
+<img align="right" width="180" alt="Z2300 Doctor" src="misc//logo_Z2300Doctor.png"/>
 
 ## Saving my Logitech Z-2300 stereo
 
