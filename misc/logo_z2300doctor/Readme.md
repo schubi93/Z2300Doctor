@@ -1,5 +1,0 @@
-# Logo
-
-## Font
-
-`Aldrich`

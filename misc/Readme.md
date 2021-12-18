@@ -1,0 +1,7 @@
+# Misc
+
+## Logo
+
+### Font
+
+`Aldrich`

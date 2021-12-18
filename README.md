@@ -30,7 +30,8 @@ If you feel like going forward to it, feel free to fork!
 
 ## Overview
 
-* [PCB](pcb/): Contains the [KiCad](https://www.kicad.org/) project as well as Gerber Data and the BOM
+* [pcb](pcb/): Contains the [KiCad](https://www.kicad.org/) project as well as Gerber Data and the BOM
+* [misc](misc/Readme.md): Logo, unrelated stuff...
 
 ## License
 
